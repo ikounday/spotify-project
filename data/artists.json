@@ -1,0 +1,72 @@
+[
+    {
+        "color": "#191414",
+        "id": "Olivia Rodrigo",
+        "image": "https://i.scdn.co/image/5fb1f691c5d3cdbc54e1934c1b76e0ce00bcee9b",
+        "rank": "Top 1",
+        "value": 70
+    },
+    {
+        "color": "#191414a1",
+        "id": "Ariana Grande",
+        "image": "https://i.scdn.co/image/f8c793519d837ca2f920c561535fe62ef32e8e5b",
+        "rank": "Top 2",
+        "value": 50
+    },
+    {
+        "color": "#191414a2",
+        "id": "Bad Bunny",
+        "image": "https://i.scdn.co/image/1c66d291db8ab21ac32d045ef28199fb195b97cf",
+        "rank": "Top 3",
+        "value": 30
+    },
+    {
+        "color": "#191414a3",
+        "id": "Billie Eilish",
+        "image": "https://i.scdn.co/image/fe925d3ea240c3311172c6fac977d18780cd3e2d",
+        "rank": "Top 4",
+        "value": 30
+    },
+    {
+        "color": "#191414a4",
+        "id": "The Weeknd",
+        "image": "https://i.scdn.co/image/d9a875c37277c35b94c60c00d2cd256db098505d",
+        "rank": "Top 5",
+        "value": 21
+    },
+    {
+        "color": "#191414a5",
+        "id": "Pop Smoke",
+        "image": "https://i.scdn.co/image/dec62931945371fd22f29c436ca61dea03415556",
+        "rank": "Top 6",
+        "value": 21
+    },
+    {
+        "color": "#191414a6",
+        "id": "Juice WRLD",
+        "image": "https://i.scdn.co/image/d8e62447a338a882b490460da20e90aac6d60ae7",
+        "rank": "Top 7",
+        "value": 15
+    },
+    {
+        "color": "#191414a7",
+        "id": "Justin Bieber",
+        "image": "https://i.scdn.co/image/e4402b06501ef0e3e54ca88cdefc722e4ec7b05b",
+        "rank": "Top 8",
+        "value": 15
+    },
+    {
+        "color": "#191414a8",
+        "id": "Harry Styles",
+        "image": "https://i.scdn.co/image/b2163e7456f3d618a0e2a4e32bc892d6b11ce673",
+        "rank": "Top 9",
+        "value": 10
+    },
+    {
+        "color": "#191414a9",
+        "id": "KAROL G",
+        "image": "https://i.scdn.co/image/8d03b329be3c75ed19723875dc02b1f180773938",
+        "rank": "Top 10",
+        "value": 10
+    }
+]
